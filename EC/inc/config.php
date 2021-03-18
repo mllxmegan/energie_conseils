@@ -1,7 +1,7 @@
 <?php
 
 $servername = 'localhost';
-$dbname = 'château-de-carte';
+$dbname = 'espace_membre';
 $db_username = 'root';
 $db_password = '';
 

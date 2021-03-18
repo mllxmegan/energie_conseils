@@ -35,7 +35,7 @@
 <div class="searchdiv">
 	<center><label for="site-search">Identifiant PCE:</label>
 <input class="cher" type="search" id="site-search" name="q"
-       aria-label="Search through site content"></br>
+       aria-label="Search through site content" placeholder="Entrer l'identifiant PCE"></br>
 
 <button class="cherche">Chercher</button></center>
 </div>
