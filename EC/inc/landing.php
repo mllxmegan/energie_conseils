@@ -6,7 +6,7 @@
 	}
 ?>
 
-<?php require "landing-traitement.php" ?>
+<?php require "landing_traitement.php" ?>
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -35,7 +35,7 @@
 <div class="searchdiv">
 	<center><label for="site-search">Identifiant PCE:</label>
 <input class="cher" type="search" id="site-search" name="q"
-       aria-label="Search through site content" placeholder="Entrer l'identifiant PCE"></br>
+       aria-label="Search through site content" placeholder="Entrer l'id PCE"></br>
 
 <button class="cherche">Chercher</button></center>
 </div>
